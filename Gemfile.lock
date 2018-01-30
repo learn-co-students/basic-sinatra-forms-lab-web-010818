@@ -19,7 +19,7 @@ GEM
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
     mustermann (1.0.1)
-    nokogiri (1.8.1)
+    nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
     poltergeist (1.17.0)
       capybara (~> 2.1)
@@ -83,4 +83,4 @@ DEPENDENCIES
   thin
 
 BUNDLED WITH
-   1.16.0
+   1.16.1
